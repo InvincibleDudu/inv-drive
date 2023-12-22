@@ -1,0 +1,16 @@
+* {
+    font-family: "Microsoft YaHei UI", serif;
+}
+
+.files a {
+    color: lightseagreen;
+    display: table;
+    padding-bottom: .5rem;
+    margin-bottom: .5rem;
+}
+
+.files a:hover {
+    color: #20B2AAAA
+}
+
+
